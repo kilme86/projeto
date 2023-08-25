@@ -10,7 +10,7 @@ This is a paragraph.
 This is another paragraph.
 </font>
 </p>
-<table border="1">
+<table border="2">
 <tr>
 <th>Cabeçalho</th>
 <th>Outro Cabeçalho</th>
