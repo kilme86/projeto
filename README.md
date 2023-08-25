@@ -1,6 +1,15 @@
 # projeto Anderson 86
 ## vamos começar a fazer nosso projetos como simples codigos
-
+<p>
+<font size="2" face="Verdana">
+This is a paragraph.
+</font>
+</p>
+<p>
+<font size="3" face="Times">
+This is another paragraph.
+</font>
+</p>
 <table border="1">
 <tr>
 <th>Cabeçalho</th>
