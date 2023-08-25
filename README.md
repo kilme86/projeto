@@ -2,12 +2,12 @@
 ## vamos começar a fazer nosso projetos como simples codigos
 <p>
 <font size="2" face="Verdana">
-This is a paragraph.
+aqui e as tabelas 
 </font>
 </p>
 <p>
 <font size="3" face="Times">
-This is another paragraph.
+dentro da tabalela 
 </font>
 </p>
 <table border="2">
