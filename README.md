@@ -10,7 +10,7 @@
 dentro da tabalela 
 </font>
 </p>
-<table border="2">
+<table border="3">
 <tr>
 <th>Cabeçalho</th>
 <th>Outro Cabeçalho</th>
